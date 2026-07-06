@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋 I'm Yiwei Chen</h1>
+<h1 align="center">Hi there, 👋 I'm Ivy Chen</h1>
 <h3 align="center">Data scientist</h3>
 
 - 🌱 I’m currently learning **LLM**
